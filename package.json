@@ -4,34 +4,6 @@
   "description": "Align  Components horizontally for Ink",
   "main": "lib/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/karaggeorge/ink-aligned.git"
-  },
-  "keywords": [
-    "ink",
-    "alinged",
-    "component",
-    "side",
-    "by",
-    "horizontally"
-  ],
-  "author": "George Karagkiaouris",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/karaggeorge/ink-aligned/issues"
-  },
-  "homepage": "https://github.com/karaggeorge/ink-aligned#readme"
-}
-
-{
-  "name": "ink-aligned",
-  "version": "0.1.0",
-  "description": "Align  Components horizontally for Ink",
-  "main": "lib/index.js",
-  "scripts": {
     "build": "babel src --out-dir lib",
     "build-example": "babel example/index.js -o example/example.js",
     "release": "npm run build && npm test && npm publish",
