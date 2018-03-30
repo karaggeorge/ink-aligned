@@ -83,18 +83,15 @@
     "eslint-config-xo-react": "^0.13.0",
     "eslint-plugin-react": "^7.1.0",
     "ink": "0.3.0",
+    "ink-select-input": "^1.0.0",
     "sinon": "^2.3.7",
     "xo": "^0.18.2"
   },
-  "peerDependencies": {
-    "ink": "^0.4.0"
-  },
   "dependencies": {
-    "ansi-escapes": "^3.1.0",
-    "ink-select-input": "^1.0.0",
+    "lodash": "^4.17.5",
     "prop-types": "^15.5.10",
     "string-width": "^2.1.1",
-    "strip-ansi": "^4.0.0"
+    "ink": "0.3.0"
   },
   "author": "George Karagkiaouris",
   "license": "MIT",
