@@ -1,6 +1,6 @@
 {
   "name": "ink-aligned",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Align  Components horizontally for Ink",
   "main": "lib/index.js",
   "scripts": {
